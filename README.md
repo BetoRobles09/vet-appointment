@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project 1: Pantient Manager
+It is a project created for educational purposes, it is a small appointment manager for a veterinarian, which uses React Hooks and stores information in localStorage. 
+
 ## Available Scripts
 
 In the project directory, you can run:
